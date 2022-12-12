@@ -4,34 +4,35 @@
 
 Hi my name is Buddy! I am a software developer with 10+ years of delivering expert customer service and sales. Passionate about technology and developing solutions that positively impact lives. Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team.
 
+#
 
-## 🎛️ What I love to do beside coding?
-Beside coding, I love spending time with family and making musie. Check out more on [Instagram](https://www.instagram.com/buddybangs/)
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 #
 
-<div> 
+<br/>
 
-<h1 align="center"> The Spot </h1>
 
-<p>
+
+# 🎹 **The Spot**
 Tech Stack: Bootstrap, Python, Flask, MySQL
-</p>
+Full-Stack devloped music blog. Users are able to interact by creating new blogs,asking questions and comment in the artist community. 
 
-
-</div>
-
-
-
-<div align="center">
-</div>
 
 
 
 <p align = "center"> <img  src = "https://github.com/BuddyReed/GitHub/blob/main/README/img/TheSpot.gif"/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/greg-buddy-reed-//)  
+## 🎛️ What I love to do beside coding?
+Beside coding, I love spending time with family and making musie. Check out more on [Instagram](https://www.instagram.com/buddybangs/)
 
 
 
