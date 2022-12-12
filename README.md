@@ -14,14 +14,14 @@ Hi my name is Buddy! I am a software developer with 10+ years of delivering expe
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<br/>
 
 #
 
-<br/>
 
 
-
-# 🎹 **The Spot**
+## 🎹 **The Spot** 
 Tech Stack: Bootstrap, Python, Flask, MySQL
 Full-Stack devloped music blog. Users are able to interact by creating new blogs,asking questions and comment in the artist community. 
 
