@@ -21,7 +21,7 @@ Hi my name is Buddy! I am a software developer with 10+ years of delivering expe
 
 
 
-## 🎹 **The Spot** 
+## 🎹 **[The Spot](https://github.com/BuddyReed/Blog_Project)** 
 Tech Stack: Bootstrap, Python, Flask, MySQL
 Full-Stack developed music blog. Users are able to interact by creating new blogs,ask questions and comment in the artist community. 
 
