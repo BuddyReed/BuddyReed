@@ -23,16 +23,25 @@ Hi my name is Buddy! I am a software developer with 10+ years of delivering expe
 
 ## 🎹 **The Spot** 
 Tech Stack: Bootstrap, Python, Flask, MySQL
-Full-Stack devloped music blog. Users are able to interact by creating new blogs,ask questions and comment in the artist community. 
+Full-Stack developed music blog. Users are able to interact by creating new blogs,ask questions and comment in the artist community. 
 
 
 
 
 <p align = "center"> <img  src = "https://github.com/BuddyReed/GitHub/blob/main/README/img/TheSpot.gif"/>
+  
+## ⏰ **[LifeTrak](https://github.com/BuddyReed/Java_Full/tree/main/SpringProjects/LifeTrak)** 
+Tech Stack: Java, Bootstrap, MySQL
+Full-Stack developed schedule/task tracker. LifeTrak allows users to stay motivated and on track by creating their yearly, monthly, weekly and daily task/goals  
+  
+<p align = "center"> <img  src = "https://github.com/BuddyReed/README/blob/main/img/LifeTrakFinalBig.gif"/>
+
+  
+
 
 
 ## 🎛️ What I love to do beside coding?
-Beside coding, I love spending time with family and making musie. Check out more on [Instagram](https://www.instagram.com/buddybangs/)
+Beside coding, I love spending time with family and making music. Check out more on [Instagram](https://www.instagram.com/buddybangs/)
 
 
 
