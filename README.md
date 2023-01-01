@@ -2,7 +2,7 @@
 ![GitHub_Banner](https://user-images.githubusercontent.com/114322129/206936295-8ca736d3-6a65-498a-a05d-7acd7a70af08.png)
 
 
-Hi my name is Buddy! I am a software developer with 10+ years of delivering expert customer service and sales. Passionate about technology and developing solutions that positively impact lives. Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team.
+Hi my name is Buddy! I am a software developer with a background in Real Estate and Music Production. I have 10 plus years as an expert in customer service and sales. Passionate about technology and developing solutions that positively impact lives. Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team.
 
 #
 
