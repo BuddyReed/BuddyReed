@@ -25,6 +25,11 @@ Hi my name is Buddy! I am a software developer with a background in Real Estate 
 
 #
 
+## 👋🏾 **[Socialize](https://github.com/BuddyReed/MERN/tree/main/Social)** 
+Tech Stack:  MongoDB, Express, React, Node (MERN).
+Socailize is a full stack MERN socail media application. 
+
+<p align = "center"> <img  src = "https://user-images.githubusercontent.com/114322129/223858652-1eda1f56-22cf-4b2d-b7c7-2c13f33312b1.gif"/>
 
 
 ## 🎹 **[The Spot](https://github.com/BuddyReed/Blog_Project)** 
